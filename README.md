@@ -1,6 +1,6 @@
 # FileUploader
 nodejs file upload using mutler 
-![when not uploaded ](https://imgur.com/giJlnSq)
+![](https://imgur.com/TfC4JbM)
 
 To handle cases where a file upload is attempted without selecting a file, you can include a server-side validation that checks if a file has been selected. If no file is selected, the server can send a message back to the user indicating that a file must be selected. Here's an example with a bit more explanation:
 
